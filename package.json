@@ -1,12 +1,12 @@
 {
   "name": "react-interview",
   "author": {
-    "name": "Runway Engineering",
-    "email": "eng@runway.com",
-    "url": "https://www.runway.com"
+    "name": "Vijay",
+    "email": "vijay.iyengar@sierra.ai",
+    "url": "https://www.sierra.ai"
   },
   "version": "0.1.0",
-  "description": "A starter app for Runway's frontend exercise.",
+  "description": "A starter app for a frontend exercise.",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",

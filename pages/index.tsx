@@ -8,7 +8,7 @@ export default function Home() {
     <>
       <Head>
         <title>Frontend Exercise</title>
-        <link rel="icon" href="https://runway.com/favicon-32x32.png" />
+        <link rel="icon" href="https://sierra.ai/icon.png" />
       </Head>
       <App />
     </>
